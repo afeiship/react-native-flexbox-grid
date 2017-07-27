@@ -1,8 +1,8 @@
-# react-native-flexbox-grid
-> Flexbox grid system for react native.
+# react-native-styles-flexbox-grid
+> Flexbox grid system styles for react native.
 
 
 ## resources:
 
 ## todos:
-- [ ] todo list..
+- [ ] width map for react native.

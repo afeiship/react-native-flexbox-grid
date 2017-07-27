@@ -1,8 +1,8 @@
 {
-  "name": "react-native-flexbox-grid",
+  "name": "react-native-styles-flexbox-grid",
   "version": "0.0.0",
-  "description": "Flexbox grid system for react native.",
-  "homepage": "https://github.com/afeiship/react-native-flexbox-grid",
+  "description": "Flexbox grid system styles for react native.",
+  "homepage": "https://github.com/afeiship/react-native-styles-flexbox-grid",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
