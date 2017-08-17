@@ -11,7 +11,7 @@ import {row, col, box} from 'react-native-styles-flexbox-grid';
 ```jsx
 <View style={[styles.container]}>
   <Text style={[styles.welcome]}>Hello RN!</Text>
-  <View style={[row.$,styles.h50, styles.bd1,Row.center]}>
+  <View style={[row.$,styles.h50, styles.bd1,row.center]}>
     <View style={[col.$]}>
       <Text style={[styles.tc]}>Col1</Text>
     </View>
