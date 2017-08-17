@@ -2,6 +2,12 @@
 > Flexbox grid system styles for react native.
 
 ## usage:
++ import:
+```bash
+import {row, col, box} from 'react-native-styles-flexbox-grid';
+```
+
++ code:
 ```jsx
 <View style={[styles.container]}>
   <Text style={[styles.welcome]}>Hello RN!</Text>
